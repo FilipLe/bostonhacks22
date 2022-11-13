@@ -13,7 +13,7 @@
 
 <h2>2. SMS Notification Dialogue</h2>
 / Dear Ben /
-Today is (hot/cool/cold) , at 35 Celcius. 
+<br>Today is (hot/cool/cold) , at 35 Celcius. 
 
 In the afternoon, it will rise/drop to 20 Celcius.
 
