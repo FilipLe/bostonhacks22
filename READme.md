@@ -31,7 +31,6 @@ We recommend wearing:
 <li>Jacket
 <li>Multiple layers of clothing
 </ul>
-
 <h2>3. Technicality</h2>
 <br> - OpenWeather API 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Format: weather/time/min temp/max temp/feels like temp/wind speed/feels like afternoon/feels like night/
