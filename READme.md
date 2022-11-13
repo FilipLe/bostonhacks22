@@ -38,4 +38,4 @@ We recommend wearing:
 <br> - SMTP Email Message Library
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Format: 
 <br> - CSV File Reading/Writing
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Format: name/hot temp preference/cold temp preference/phone number
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Format: name/hot temp preference/cold temp preference/phone number/general weather/more descriptive weather/current time and date
