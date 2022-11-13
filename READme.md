@@ -1,4 +1,4 @@
-<h1>BU Daily Dose of Weather</h1>
+# <code style = "color:blue">BU Daily Dose of Weather</code>
 <h2>1. Set Up</h2>
 <h5>At the beginning of the program, this text dialogue is shown to the user to gather the user requirements as well as user information</h5>
 <ul>
