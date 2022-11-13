@@ -34,8 +34,9 @@ We recommend wearing:
 
 <h2>3. Technicality</h2>
 <br> - OpenWeather API 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - bruh
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Format: weather/time/min temp/max temp/feels like temp/wind speed/feels like afternoon/feels like night/
 <br> - SMTP Email Message Library
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Format: 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Format: user addressed/main body notification/phone number
 <br> - CSV File Reading/Writing
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Format: name/hot temp preference/cold temp preference/phone number/general weather/more descriptive weather/current time and date
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Format: name/hot temp preference/cold temp preference/phone number/general weather/
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more descriptive weather/current time and date/min temp/max temp/feels like temp/wind speed
